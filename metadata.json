@@ -1,0 +1,5 @@
+{
+  "name": "Chronicle AI",
+  "description": "An AI-powered tool that transforms video and transcripts into structured markdown documents with linked key visuals.",
+  "requestFramePermissions": []
+}
